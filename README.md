@@ -1,1 +1,1 @@
-# Hello world
+![CI](https://github.com/EdgarAlemasov/workingEnvironment/actions/workflows/web.yml/badge.svg)
