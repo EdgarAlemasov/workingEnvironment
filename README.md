@@ -4,3 +4,4 @@
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/d2h1qk8w1w4a07o0?svg=true)](https://ci.appveyor.com/project/EdgarAlemasov/workingenvironment)
+![CI](https://github.com/EdgarAlemasov/workingEnvironment/actions/workflows/web.yml/badge.svg)
